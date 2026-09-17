@@ -17,7 +17,7 @@ to catch exactly that.
 ## Repo
 
 - Dir: `/Users/alex/Code/promptinjection.wtf` (git, branch `main`)
-- Remote: `github.com:commontoolsinc/promptinjection-wtf.git`
+- Remote: `github.com:commonfabric/promptinjection-wtf.git`
 - The only file you edit for a roundup: `docs/index.html`
 - GitHub Pages serves from `docs/` (`docs/CNAME` → promptinjection.wtf), so this runbook
   and other root-level docs are **not** published.
